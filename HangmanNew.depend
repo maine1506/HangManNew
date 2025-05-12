@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1746593316 source:d:\game\hangmannew\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"logic.h"
+	"graphics.h"
+	"defs.h"
+	"button.h"
+
+1747018608 d:\game\hangmannew\logic.h
+	<SDL.h>
+	<unordered_set>
+	<unordered_map>
+	<vector>
+	<algorithm>
+	<fstream>
+	"defs.h"
+
+1747019838 d:\game\hangmannew\defs.h
+
+1746593027 d:\game\hangmannew\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"defs.h"
+	"logic.h"
+	"button.h"
+
+1747018608 d:\game\hangmannew\button.h
+	<SDL.h>
+
